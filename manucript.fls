@@ -95,11 +95,6 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplb7t.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplr7t.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplb7t.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplb7t.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ts1ppl.fd
-INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ts1ppl.fd
-INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ts1ppl.fd
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplr8c.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplb7t.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplr7t.tfm
 OUTPUT manucript.pdf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/palatino/pplr7t.vf
@@ -120,6 +115,11 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/palatino/pplb7t.vf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplb8r.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/palatino/pplr7t.vf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ts1ppl.fd
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ts1ppl.fd
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ts1ppl.fd
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplr8c.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplb7t.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/palatino/pplr8c.vf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mathpazo/fplmr.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/palatino/pplb7t.vf
